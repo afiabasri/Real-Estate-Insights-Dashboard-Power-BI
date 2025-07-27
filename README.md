@@ -78,6 +78,6 @@ This dashboard provides a clear view of key metrics in the real estate market, i
 
 ## 📫 Contact
 
-📧 your-email@example.com  
+📧 afiabasri360@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
 🌐 [Fiverr](https://www.fiverr.com/your-profile)  
