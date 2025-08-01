@@ -75,9 +75,3 @@ This dashboard provides a clear view of key metrics in the real estate market, i
 `#PowerBI` `#RealEstate` `#Dashboard` `#DataAnalytics` `#BusinessIntelligence` `#DAX` `#DataVisualization`
 
 ---
-
-## 📫 Contact
-
-📧 afiabasri360@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-🌐 [Fiverr][(https://www.fiverr.com/your-profile) ](https://www.fiverr.com/s/1qjQ1a5) 
