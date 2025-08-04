@@ -66,7 +66,7 @@ This dashboard provides a clear view of key metrics in the real estate market, i
 
 ## 🖼️ Preview
 
-![Real Estate Dashboard](Real-Estate.png)
+![Real Estate Dashboard](https://github.com/afiabasri/Real-Estate-Insights-Dashboard-Power-BI/blob/main/Real%20Estate.png)
 
 ---
 
